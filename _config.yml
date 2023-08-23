@@ -104,5 +104,5 @@ theme: cactus
 deploy:
   type: git
   repo: https://github.com/cmxStars/github.io
-  branch: master
+  branch: main
 
